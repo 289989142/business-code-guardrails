@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Code Guardrails"
+  short_description: "Trace business rules before changing code"
+  default_prompt: "Use $business-code-guardrails to trace the rules and compatibility risks for this business-code change or review."
